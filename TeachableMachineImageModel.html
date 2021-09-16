@@ -1,3 +1,4 @@
+<script>
 //*********************************************//
 //Create by Le Van Quy DT3 DUT
 //Date: 2021/09/16 07:00AM
@@ -5,6 +6,7 @@
 //Facebook: https://www.facebook.com/vanquy2406
 //Gmail: levanquy.dhbk@gmail.com
 //*********************************************//
+</script>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -64,7 +66,7 @@
         <a href="https://www.facebook.com/vanquy2406">
             <i style="margin-bottom: 8px;" class="fab fa-facebook" title="Contact Me on Facebook"></i>
         </a><br>
-        <a href="https://www.facebook.com/vanquy2406">
+        <a href="mailto: levanquy01693099717@gmail.com">
             <i class="fas fa-envelope" title="Contact Me via Mail"></i>
         </a><br>
     </h1>
@@ -217,7 +219,10 @@
                     pos=i;
                 }
             }
-            const classPrediction = prediction[pos].className
+            if (pos==2){
+                classPrediction = "Unknown";
+            }
+            else classPrediction = prediction[pos].className;
             labelContainer.innerHTML = classPrediction;
         }
     </script>
@@ -225,6 +230,8 @@
 </body>
 </html>
 
+<script>
 //End Code
 //Thanks for Watching
 //Have a good day <3
+</script>
