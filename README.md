@@ -1,5 +1,5 @@
 # Subject: Identification Engineering
-Latest update: May 8, 2022
+Latest update: May 8, 2021
 ## Introduce
 The system used for *image recognition* based on [***Google's Teachable Machine***](https://teachablemachine.withgoogle.com/) module
 ## Feature
