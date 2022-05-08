@@ -12,4 +12,4 @@ Use webcam to identify objects such as:
 3. Put the objects in front of your webcam one by one the system will tell you what it is
 
 ## Preview
-![Preview](./preview_image.png)
+![Preview](privew_image.png)
