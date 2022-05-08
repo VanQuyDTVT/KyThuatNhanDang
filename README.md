@@ -1,6 +1,6 @@
 # Subject: Identification Engineering
 ## Introduce
-The system used for *image recognition* is based on [***Google's Teachable Machine***](https://teachablemachine.withgoogle.com/) module
+The system used for *image recognition* based on [***Google's Teachable Machine***](https://teachablemachine.withgoogle.com/) module
 ## Feature
 Use webcam to identify objects such as:
 - pens
