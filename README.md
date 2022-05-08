@@ -1,6 +1,6 @@
-# KyThuatNhanDang
+# Subject: Identification Engineering
 ## Introduce
-The system used for *image recognition* is based on ***Google's Teachable Machine*** module
+The system used for *image recognition* is based on [***Google's Teachable Machine***](https://teachablemachine.withgoogle.com/) module
 ## Feature
 Use webcam to identify objects such as:
 - pens
@@ -12,4 +12,4 @@ Use webcam to identify objects such as:
 3. Put the objects in front of your webcam one by one the system will tell you what it is
 
 ## Preview
-![Preview](https://drive.google.com/file/d/1hrJqU-dovjFC5EE_J2dD7O83jiaPCewZ/view)
+![Preview](privew_image.png)
